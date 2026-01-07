@@ -1,4 +1,4 @@
 # shresthacollege-demo
 This is my first Git Repository.
 <br>
-Author-Hom Shrestha
+Author-Hom Shrestha (shrestha college)
